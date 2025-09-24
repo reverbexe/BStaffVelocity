@@ -169,18 +169,3 @@ Kyori Adventure for the great text library
 
 The Minecraft server community for inspiration
 
-Note: This is a work in progress. Features may change and bugs may exist. Please report any issues you encounter!
-
-text
-
-This README provides:
-
-1. **Clear status indication** - Marks it as WIP upfront
-2. **Comprehensive feature list** - Current vs planned features
-3. **Easy installation instructions** - Simple setup process
-4. **Detailed usage examples** - How to use all commands
-5. **Development information** - For contributors
-6. **TODO list** - Clear roadmap
-7. **Professional structure** - Standard open-source project format
-
-You can customize the GitHub URL, add your specific build instructions, or modify any sections to better fit your project's specific needs!
